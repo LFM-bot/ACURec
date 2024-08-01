@@ -1,7 +1,8 @@
 # Attention-guided Counterfactual User Contrastive Modeling for Sequential Recommendation
-![Image text](https://github.com/LFM-bot/ACURec/blob/master/pic/model.png)
 This is the code for our paper ***A***ttention-guided ***C***ounterfactual ***U***ser Contrastive Modeling
 for Sequential ***Rec***ommendation (ACURec).
+## Overview
+![Image text](https://github.com/LFM-bot/ACURec/blob/master/pic/model.png)
 ## Requirements
 We use the following environment:
 * Python 3.8
